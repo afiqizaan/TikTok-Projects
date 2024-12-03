@@ -10,9 +10,13 @@ This repository contains a series of data analysis and machine learning projects
 - **Objective**: Investigate and organize TikTok's dataset for initial insights and preparation for further analysis.
 - **Key Focus**: Dataframe creation, summary statistics, and variable exploration.
 
-### 2. [Course 4: TikTok Hypothesis Testing and Insights](./Course4_TikTok_Hypothesis_Testing_and_Insights)
-- **Objective**: Conduct hypothesis testing using descriptive and inferential statistics to uncover key insights.
-- **Key Focus**: Null and alternative hypothesis formulation, statistical testing, and business recommendations.
+### 2. [Course 3: TikTok Exploratory Data Analysis](./Course3_TikTok_Exploratory_Data_Analysis)
+- **Objective**: Perform in-depth EDA on the dataset, focusing on variables that distinguish claim videos from opinion videos.
+- **Key Focus**: Data cleaning, visualization, and variable relationship exploration.
+
+### 3. [Course 4: TikTok Hypothesis Testing and Insights](./Course4_TikTok_Hypothesis_Testing_and_Insights)
+- **Objective**: Conduct hypothesis testing using descriptive and inferential statistics to provide actionable business recommendations.
+- **Key Focus**: Hypothesis formulation, statistical testing, and business insights.
 
 ### 3. [Course 5: TikTok Logistic Regression Model](./Course5_TikTok_Logistic_Regression_Model)
 - **Objective**: Build and evaluate a logistic regression model to analyze outcomes within TikTok's dataset.
