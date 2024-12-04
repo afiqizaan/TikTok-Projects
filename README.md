@@ -43,6 +43,6 @@ The TikTok dataset used in this repository contains key metadata and features re
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TikTok_Projects.git
+   git clone https://github.com/afiqizaan/TikTok-Projects.git
 2. Navigate to individual project directories for detailed information and notebooks.
 3. Open the .ipynb files in Jupyter Notebook or Google Colab to explore the code.
